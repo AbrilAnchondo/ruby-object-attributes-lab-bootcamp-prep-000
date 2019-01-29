@@ -5,5 +5,10 @@ class Dog
   end
   
   def name
+   @name
+  end 
   
+  
+
+
 end
